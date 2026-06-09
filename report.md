@@ -672,9 +672,9 @@ Este proyecto no habría sido posible sin:
 ## 📞 Contacto y Soporte
 
 Para reportar errores o sugerir mejoras:
-- **Email**: soporte@cineeventospro.com
-- **GitHub**: github.com/cineeventospro
-- **Documentación**: docs.cineeventospro.com
+- **Email**: sergiompagarizabal@gmail.com
+- **GitHub**: [github.com/cineeventospro](https://github.com/Sergio0307/Organizador-de-Eventos-Cinematogr-ficos-)
+
 
 ---
 
