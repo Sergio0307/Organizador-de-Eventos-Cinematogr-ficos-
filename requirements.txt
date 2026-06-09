@@ -1,2 +1,9 @@
 Python 3.8 o superior (probado en Python 3.10+)
 Sistema Operativo: Windows 10/11, macOS, Linux (Ubuntu 20.04+)
+Hardware Recomendado
+Procesador: Intel Core i5 / AMD Ryzen 5 o equivalente
+RAM: 4 GB mínimo, 8 GB recomendado
+Espacio en disco: 100 MB para la aplicación + espacio para datos
+Resolución de pantalla: 1280x720 mínimo, 1920x1080 recomendado
+Conexión a internet: No requerida (funciona offline)
+(bromeo :) con una PC basica de escritorio todo pincha correctamente, solo tener en cuenta la version Python del sistema, i sistema operativo instalado)
